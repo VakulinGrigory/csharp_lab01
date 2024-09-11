@@ -1,4 +1,4 @@
-/*Rectangle rectangle = new Rectangle(5, 6);
+Rectangle rectangle = new Rectangle(5, 6);
 
 Console.Write("Area = "); Console.WriteLine(rectangle.Area);
 Console.Write("Perimeter = "); Console.WriteLine(rectangle.Perimeter);
@@ -27,4 +27,4 @@ class Rectangle
     {
         get {return CalculatePerimeter();}
     }
-}*/
+}
